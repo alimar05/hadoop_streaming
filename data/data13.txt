@@ -1,0 +1,4 @@
+1:1abc:2abc:3abc
+2:1bcd::2bcd::3bcd::
+3:1cde:::2cde:::3cde:::
+34:t0t1:g5_6:::::  :4=1
